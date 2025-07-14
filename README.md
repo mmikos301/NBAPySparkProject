@@ -1,5 +1,3 @@
-# NBAPySparkProject
-
 # NBA Player Stats Analysis with PySpark
 
 This project presents a comprehensive analysis of NBA player statistics using Apache Spark (PySpark). The analysis focuses on advanced basketball metrics across seasons, including trends, player segmentation, and anomaly detection.
